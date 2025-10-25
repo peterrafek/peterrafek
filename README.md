@@ -1,12 +1,12 @@
 <br clear="both">
 
-<h2 align="center">Hello, I'm Peter Rafek</h2>
+<h1 align="center">Hello, I'm Peter Rafek</h1>
 
 ###
 
 <br clear="both">
 
-<h3 align="center">Software Engineer | Flutter Developer</h3>
+<h2 align="center">Software Engineer | Flutter Developer</h2>
 
 ###
 
